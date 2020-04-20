@@ -1,0 +1,14 @@
+c:\users\ranor\documents\visual studio 2015\Projects\KO-Monster-Exp-Editor\KO-Monster-Exp-Editor\bin\Debug\KO-Monster-Exp-Editor.exe.config
+c:\users\ranor\documents\visual studio 2015\Projects\KO-Monster-Exp-Editor\KO-Monster-Exp-Editor\bin\Debug\KO-Monster-Exp-Editor.exe
+c:\users\ranor\documents\visual studio 2015\Projects\KO-Monster-Exp-Editor\KO-Monster-Exp-Editor\bin\Debug\KO-Monster-Exp-Editor.pdb
+c:\users\ranor\documents\visual studio 2015\Projects\KO-Monster-Exp-Editor\KO-Monster-Exp-Editor\obj\Debug\KO-Monster-Exp-Editor.csprojResolveAssemblyReference.cache
+c:\users\ranor\documents\visual studio 2015\Projects\KO-Monster-Exp-Editor\KO-Monster-Exp-Editor\obj\Debug\KO_Monster_Exp_Editor.Form1.resources
+c:\users\ranor\documents\visual studio 2015\Projects\KO-Monster-Exp-Editor\KO-Monster-Exp-Editor\obj\Debug\KO_Monster_Exp_Editor.Properties.Resources.resources
+c:\users\ranor\documents\visual studio 2015\Projects\KO-Monster-Exp-Editor\KO-Monster-Exp-Editor\obj\Debug\KO-Monster-Exp-Editor.csproj.GenerateResource.Cache
+c:\users\ranor\documents\visual studio 2015\Projects\KO-Monster-Exp-Editor\KO-Monster-Exp-Editor\obj\Debug\KO-Monster-Exp-Editor.exe
+c:\users\ranor\documents\visual studio 2015\Projects\KO-Monster-Exp-Editor\KO-Monster-Exp-Editor\obj\Debug\KO-Monster-Exp-Editor.pdb
+c:\users\ranor\documents\visual studio 2015\Projects\KO-Monster-Exp-Editor\KO-Monster-Exp-Editor\obj\Debug\KO_Monster_Exp_Editor.mobexp.resources
+c:\users\ranor\documents\visual studio 2015\Projects\KO-Monster-Exp-Editor\KO-Monster-Exp-Editor\obj\Debug\KO_Monster_Exp_Editor.main.resources
+c:\users\ranor\documents\visual studio 2015\Projects\KO-Monster-Exp-Editor\KO-Monster-Exp-Editor\obj\Debug\KO_Monster_Exp_Editor.mobdrop.resources
+C:\Users\ranor\documents\visual studio 2015\Projects\KO-Monster-Exp-Editor\KO-Monster-Exp-Editor\obj\Debug\KO_Monster_Exp_Editor.itemedit.resources
+C:\Users\ranor\documents\visual studio 2015\Projects\KO-Monster-Exp-Editor\KO-Monster-Exp-Editor\obj\Debug\KO_Monster_Exp_Editor.itemfinder.resources
