@@ -1,3 +1,3 @@
-# Ranork Knight Online Monster and Item editor
-
-For detailed information, visit: ranork.net/blog
+# Knight Online Mob & Item editor for Private Servers
+App helps you to edit knight online databases.
+Feel free to use it!
